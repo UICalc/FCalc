@@ -14,4 +14,5 @@ Calculator Air Resistance &amp; Gravity
 #### *Energetic Materials*
 ---
 
-This program can calculate an object's velocity/work/Ft/x.
+This program can calculate an object's velocity/work/Ft/x.  
+Just aiming to practice Qt.
